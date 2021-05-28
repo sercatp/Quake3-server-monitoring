@@ -20,7 +20,7 @@ Installation:
     
       pip install keyboard
     
-3) Unzip q3monitor.7z and run q3mon.pyw
+3) Download q3monitor.7z, unzip it and run q3mon.pyw
 
 Settings:
 
