@@ -19,6 +19,8 @@ Installation:
       pip install PyGetWindow
     
       pip install keyboard
+      
+      pip install playsound
     
 3) Download q3monitor.7z, unzip it and run q3mon.pyw
 
