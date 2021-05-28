@@ -1,6 +1,9 @@
 # Quake3-server-monitoring
 Provides simple GUI to monitor Quake3 servers
 
+![Quake3 Monitor](https://github.com/sercatp/Quake3-server-monitoring/blob/main/screenshots/screenshot1.png)
+
+
 Installation:
 1) Install Python3 or higher
 2) Install required libraries that are used by this app:
